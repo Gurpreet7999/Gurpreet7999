@@ -1,5 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gurpreet%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Automation+Engineer;Workflow+Automation+Builder;AI+Voice+Agent+Developer;Building+AI+Automation+Systems&center=true&width=600&height=50">
+</p> 
+
 # 👋 Hello, I'm Gurpreet Singh
 
 ### 🤖 AI Automation Engineer | Workflow Architect | AI Agent Developer
@@ -14,6 +18,12 @@ My focus is on **real-world AI systems** that combine:
 - automation infrastructure
 
 ---
+
+## ⚡ AI & Automation Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,git,github,postgres,mongodb,docker,cloudflare&theme=dark" />
+</p>
 
 # 🚀 What I Build
 
@@ -146,19 +156,17 @@ Automated marketing intelligence system that analyzes competitor advertising str
 
 </p>
 
+## 📊 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gurpreet7999&theme=react-dark&hide_border=true"/>
+</p>
 ---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Gurpreet7999/Gurpreet7999/output/snake.svg"/>
-</p>
-
-## 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Gurpreet7999&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
 </p>
 
 ---
@@ -169,15 +177,23 @@ Automated marketing intelligence system that analyzes competitor advertising str
 
 ---
 
-# 📫 Connect With Me
+## 🌐 Connect With Me
 
-📧 gpssingh277@gmail.com  
+<p align="center">
 
-💼 LinkedIn  
-https://linkedin.com/in/gurpreet-singh-21684a30a
+<a href="https://auto-flow79.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
 
-📷 Instagram  
-https://instagram.com/_mr._gurpreet_777
+<a href="mailto:gpssingh277@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/gurpreet-singh-21684a30a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
@@ -192,3 +208,11 @@ Combining:
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:2c5364&height=120&section=footer"/>
+
+## 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Gurpreet7999&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+</p>
