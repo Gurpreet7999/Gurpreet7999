@@ -147,7 +147,11 @@ Automated marketing intelligence system that analyzes competitor advertising str
 </p>
 
 ---
+## 🐍 Contribution Snake
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Gurpreet7999/Gurpreet7999/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ## 👀 Profile Visitors
 
